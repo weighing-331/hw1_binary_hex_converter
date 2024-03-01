@@ -1,5 +1,6 @@
 # hw1_binary_hex_converter
 DSA_w2
+## Code
 ```
 def decimal_to_binary(n):
     if n == 0:
@@ -31,9 +32,10 @@ while True:
         decimal = int(decimal)
         binary_output = decimal_to_binary(decimal)
         print("Binary:", binary_output)
-
         hex_output = decimal_to_hex(decimal)
         print("Hexadecimal:", hex_output)
     except ValueError:
         pass
 ```
+## 執行結果
+<img width="464" alt="image" src="https://github.com/weighing-331/hw1_binary_hex_converter/assets/68834074/b8a66139-f963-470e-8183-1e5dff0b025e">
