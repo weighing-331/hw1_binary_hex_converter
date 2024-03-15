@@ -58,7 +58,7 @@ def binary_to_hexadecimal(binary):
     for group in groups:
         decimal_value = 0
         for i in range(len(group)):
-            decimal_value += int(group[i]) * (2 ** (3 - i))  # 將二進位轉換為十進位
+            decimal_value += int(group[i]) * (2 ** (3 - i))
         hexadecimal += hex_chars[decimal_value]
     return hexadecimal
 
