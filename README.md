@@ -39,6 +39,9 @@ while True:
 ```
 ## 執行結果
 <img width="464" alt="image" src="https://github.com/weighing-331/hw1_binary_hex_converter/assets/68834074/b8a66139-f963-470e-8183-1e5dff0b025e">
+
+
+
 ## Code2
 ```
 def decimal_to_binary(decimal):
@@ -72,4 +75,5 @@ if __name__ == "__main__":
     main()
 ```
 ## 執行結果2
+
 <img width="496" alt="image" src="https://github.com/weighing-331/hw1_binary_hex_converter/assets/68834074/74b2d579-088a-4939-bbff-ce15387817d8">
